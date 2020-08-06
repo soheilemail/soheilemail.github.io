@@ -61,6 +61,7 @@ p {
 #headshot img {
 	width: 100%;
 	height: auto;
+	height: 100%;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 }
